@@ -10,12 +10,12 @@ O BigNumber foi representado através de uma struct chamada big, que contém as 
 # Interface pública do tipo BigNumber
 
 ```
-    struct big {
+    typedef struct big {
         int *elements;
-        unsigned int isNegative;
-        unsigned int size;
-        unsigned int realSize;
-    } typedef *BigNumber;
+        int isNegative;
+        int size;
+        int realSize;
+    } *BigNumber;
 ```
 
 # Algoritmos utilizados
