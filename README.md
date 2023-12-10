@@ -1,7 +1,3 @@
-Nicolas Yudi Kim - 11202111134
-Romario Negreiros Baldarenas Silva - 11202230894
-Wesley Ramos dos Santos - 11202231389
-
 # Representação do BigNumber
 
 O BigNumber foi representado através de uma struct chamada big, que contém as seguintes propriedades:
@@ -25,11 +21,3 @@ O BigNumber foi representado através de uma struct chamada big, que contém as 
 # Algoritmos utilizados
 
 - [Algoritmo de Karatubsa](https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/karatsuba.html): Ultilizado na implementação do método para multiplicar dois BigNumbers.
-
-# Divisão de trabalhos
-
-- Implementação dos métodos de 'utils' para o BigNumber e do código no cliente: Romario
-- Implementação do método de soma e dos métodos para gerenciamento de memória: Wesley
-- Implementação dos métodos de subtração: Nicolas
-- Implementação do método para multiplicação: Todos os membros do grupo participaram desta implementação
-- Revisão do código: Todos os membros do grupo participaram desta etapa
